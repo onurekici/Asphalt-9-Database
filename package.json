@@ -1,0 +1,27 @@
+{
+  "name": "mbey",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "MühendisBey",
+  "license": "ISC",
+  "dependencies": {
+    "audit": "0.0.6",
+    "bot.js": "0.0.1",
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.0",
+    "eris": "^0.9.0",
+    "fic": "0.0.1",
+    "fix": "0.0.6",
+    "gumer-psn": "^0.2.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^1.3.0",
+    "ms": "^2.0.0",
+    "node-xbox": "^0.1.0",
+    "npm": "^6.3.0",
+    "superagent": "^3.8.3"
+  }
+}
