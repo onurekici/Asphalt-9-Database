@@ -3,7 +3,7 @@ const bot = new Discord.Client ();
 
 
 bot.on('ready', () => {
-  bot.user.setGame('Bilgisayar Başında Değilim') })
+  bot.user.setGame('Çalışmalar devam ediyor') })
 
 
 
