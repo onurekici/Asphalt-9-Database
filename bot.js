@@ -15,7 +15,10 @@ client.on('message', message => {
   // If the message is "what is my avatar"
   if (message.content === 'avatarım') {
     // Send the user's avatar URL
-    message.reply(message.author.avatarURL);
+    const attachment = new Attachment(message.author.avatarURL);
+        // Send the attachment in the message channel with a content
+        message.channel.send(`${message.author},`, attachment);
+   
   }
 });
 
