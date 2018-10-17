@@ -5,21 +5,12 @@ client.on('ready', () => {
   client.user.setGame('Çalışmalar devam ediyor. Twitch kanalımıza gitmek için İZLE butonuna basabilirsin :) ', 'https://www.twitch.tv/muhendisbeymuhendishanim')
 });
 
-client.on('message', msg => {
-  if (msg.content === 'sa') {
-    msg.reply(' Aleyküm selam hoşgeldin :slight_smile: ');
+client.on('message', message => {
+  // If the message is "ping"
+  if (message.content === 'sa') {
+    // Send "pong" to the same channel
+    message.channel.send('Aleyküm Selam hoşgeldin :slight_smile:  ');
   }
-  
-  });
-  
-  client.on('message', msg => {
-  if (message.content === 'avatarım') {
-    // Send the user's avatar URL
-     message.reply(message.author.avatarURL);
-  }
-  
-  
-  
 });
 
 
