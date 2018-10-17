@@ -19,14 +19,6 @@ client.on('message', message => {
   }
 });
 
-client.on('message', message => {
-    // If the message is '!rip'
-    if (message.content === 'rip') {
-        // Create the attachment using Attachment
-        const attachment = new Attachment('https://i.imgur.com/w3duR07.png');
-        // Send the attachment in the message channel with a content
-        message.channel.send(`${message.author},`, attachment);
-    }
-});
+
 
 client.login(process.env.BOT_TOKEN);
