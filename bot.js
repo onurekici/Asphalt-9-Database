@@ -20,5 +20,9 @@ client.on('message', message => {
 });
 
 
+client.on('guildMemberAdd', member => {
+   member.send("Discord sunucumuza hoşgeldin. Sunucudaki diğer odaları görebilmek için #rol-secimi kanalından rollerini alabilirsin.  Ayrıca #kurallar-kanaladavet kanalından sunucu kurallarını okumayı da unutma :slight_smile:  İyi eğlenceler :heart: ");
+});
+
 
 client.login(process.env.BOT_TOKEN);
