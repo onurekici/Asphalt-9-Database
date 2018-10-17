@@ -7,14 +7,14 @@ bot.on('ready', () => {
   bot.user.setStatus('idle')
   
   
-  bot.on('message', msg => {
-  if (msg.content === 'sa') {
-    msg.reply('Aleyküm Selam hoşgeldin');
-  }
+ 
   
 })
 
-
+ bot.on('message', msg => {
+  if (msg.content === 'sa') {
+    msg.reply('Aleyküm Selam hoşgeldin');
+  }
 
 
 bot.login(process.env.BOT_TOKEN);
