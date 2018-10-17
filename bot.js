@@ -10,6 +10,9 @@ client.on('message', msg => {
     msg.reply(' Aleyküm selam hoşgeldin :slight_smile: ');
   }
   
+  });
+  
+  client.on('message', msg => {
   if (message.content === 'avatarım') {
     // Send the user's avatar URL
      message.reply(message.author.avatarURL);
