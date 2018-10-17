@@ -9,18 +9,12 @@ client.on('message', msg => {
   if (msg.content === 'sa') {
     msg.reply(' Aleyküm selam hoşgeldin :slight_smile: ');
   }
-});
-
-client.on('message', message => {
-  // If the message is "what is my avatar"
+  
   if (message.content === 'avatarım') {
     // Send the user's avatar URL
      message.reply(message.author.avatarURL);
   }
-});
-
-client.on('message', message => {
-  // If the message is "how to embed"
+  
   if (message.content === 'how to embed') {
     // We can create embeds using the MessageEmbed constructor
     // Read more about all that you can do with the constructor
@@ -35,7 +29,10 @@ client.on('message', message => {
     // Send the embed to the same channel as the message
     message.channel.send(embed);
   }
+  
 });
+
+
 
 client.on('guildMemberAdd', member => {
    member.send("Discord sunucumuza hoşgeldin. Sunucudaki diğer odaları görebilmek için #rol-secimi kanalından rollerini alabilirsin.  Ayrıca #kurallar-kanaladavet kanalından sunucu kurallarını okumayı da unutma :slight_smile:  İyi eğlenceler :heart: ");
