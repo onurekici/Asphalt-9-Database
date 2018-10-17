@@ -11,4 +11,12 @@ client.on('message', msg => {
   }
 });
 
+client.on('message', message => {
+  // If the message is "what is my avatar"
+  if (message.content === 'avatarım') {
+    // Send the user's avatar URL
+    message.reply(message.author.avatarURL);
+  }
+});
+
 client.login(process.env.BOT_TOKEN);
