@@ -9,7 +9,7 @@ client.on('message', message => {
   // If the message is "ping"
   if (message.content === 'sa') {
     // Send "pong" to the same channel
-    message.channel.send('Aleyküm Selam hoşgeldin :slight_smile:  ');
+    msg.reply('Aleyküm Selam hoşgeldin :slight_smile:  ');
   }
 });
 
