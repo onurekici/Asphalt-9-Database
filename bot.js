@@ -3,7 +3,9 @@ const bot = new Discord.Client ();
 
 
 bot.on('ready', () => {
-  bot.user.setGame('Çalışmalar devam ediyor') })
+  bot.user.setGame('Çalışmalar devam ediyor. Twitch kanalımız :', 'https://www.twitch.tv/muhendisbeymuhendishanim')
+  bot.user.setStatus('idle')
+})
 
 
 
