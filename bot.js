@@ -9,6 +9,11 @@ client.on('message', msg => {
   if (msg.content === 'sa') {
     msg.reply('Aleyküm Selam hoşgeldin');
   }
+  
+  else if (message.content === 'what is my avatar') {
+    // Send the user's avatar URL
+    message.reply(message.author.avatarURL);
+  }
 });
 
 
