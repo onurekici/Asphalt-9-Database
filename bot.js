@@ -11,6 +11,12 @@ client.on('message', msg => {
   }
 });
 
+client.on('message', msg => {
+  if (msg.content === 'Sa') {
+    msg.reply('Aleyküm Selam hoşgeldin');
+  }
+});
+
 client.on('message', message => {
   // If the message is "what is my avatar"
   if (message.content === 'avatarım') {
