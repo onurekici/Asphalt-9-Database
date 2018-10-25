@@ -31,7 +31,7 @@ client.on('message', message => {
   guildMember = message.member;
   if (message.content === 'deneme') {
     // Send the user's avatar URL
-    message.reply(guildMember.id);
+    message.reply(guildMember.user.createdAt);
   }
 });
 
