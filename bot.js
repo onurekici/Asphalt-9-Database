@@ -25,6 +25,14 @@ client.on('message', message => {
   }
 });
 
+client.on('message', message => {
+  // If the message is "what is my avatar"
+  if (message.content === 'bilgilerim') {
+    // Send the user's avatar URL
+    message.reply(message.author.createdAt);
+  }
+});
+
 
 
 
