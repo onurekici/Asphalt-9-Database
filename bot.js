@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const moment = require ('moment.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
@@ -31,6 +32,7 @@ client.on('message', message => {
   guildMember = message.member;
   if (message.content === 'deneme') {
     // Send the user's avatar URL
+    joinDiscord = moment(guildMember.user.createdAt).format('lll') + '\n*' + moment(new Date()).diff(guildMember.user.createdAt, 'days') + ' days ago*';
     message.reply(guildMember.user.createdAt);
   }
 });
