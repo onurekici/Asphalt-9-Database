@@ -34,10 +34,10 @@ client.on('message', message => {
     // Send the user's avatar URL
    joinDiscord = 'Hesap oluşturma tarihi :' + guildMember.user.createdAt + '\n'  ;
    joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
-    userRoles : guildMember.roles.entries() + '\n' ;
-    status = guildMember.user.presence.status;
+ 
     
-    message.reply(joinDiscord + joinServer + useRoles + status );
+    
+    message.reply(joinDiscord + joinServer );
 
   }
 });
