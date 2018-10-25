@@ -29,13 +29,7 @@ client.on('message', message => {
   }
 });
 
-client.on('message', message => {
-  // If the message is "what is my avatar"
-  if (message.content === 'bilgilerim') {
-    // Send the user's avatar URL
-    message.channel.send(userInfo(sender));
-  }
-});
+
 
 
 
@@ -54,9 +48,6 @@ client.on('guildMemberAdd', member => {
 });
 
 
-function userInfo(user){
-  finalString += '**'user.username + '**ID** ' + user.id + '** Created ** ' +user.createdAt;
-  return finalString;
-}
+
 
 client.login(process.env.BOT_TOKEN);
