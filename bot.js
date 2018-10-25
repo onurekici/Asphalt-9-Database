@@ -34,12 +34,13 @@ client.on('message', message => {
     // Send the user's avatar URL
    
  
-    message.channel.startTyping();
+   
     joinDiscord = 'Hesap oluşturma tarihi :' + guildMember.user.createdAt + '\n'  ;
    joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
-    //message.reply(joinDiscord + joinServer );
-    message.channel.send({ embed: embed });
-		return message.channel.stopTyping();
+	  
+	  
+    message.reply(' ```css \n'+ joinDiscord + joinServer + ' ```' );
+   
 
   }
 });
