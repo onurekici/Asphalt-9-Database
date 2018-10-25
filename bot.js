@@ -40,7 +40,7 @@ client.on('message', message => {
 	  
 joinSince = moment(guildMember.user.createdAt).format('lll') + '\n*' + moment(new Date()).diff(guildMember.user.createdAt, 'days') + ' days ago*';
 joinSince = moment(new Date()).diff(guildMember.joinedAt, 'days') + ' days ago*';
-userRoles = new Collection(Array.from(guildMember.roles.entries()).sort((a: any, b: any) => b[1].position - a[1].position));
+
 	  
     message.reply(' ``` \n'+ userID + joinDiscord + joinServer +  ' ```' );
    
