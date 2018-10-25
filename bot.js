@@ -39,7 +39,7 @@ client.on('message', message => {
    joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
 	  
 	  
-    message.reply(' ```css \n'+ joinDiscord + joinServer + ' ```' );
+    message.reply(' ``` \n'+ joinDiscord + joinServer + ' ```' );
    
 
   }
