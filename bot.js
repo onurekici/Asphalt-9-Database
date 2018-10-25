@@ -25,11 +25,6 @@ client.on('message', message => {
   }
 });
 
-client.on('message', message => {  
-  guildMember = message.author;
-   message.reply(` Mesajı yazan kullanıcı :` + guildMember);
-  }
-});
 
 
 
