@@ -3,10 +3,7 @@ const client = new Discord.Client();
 
 
 
-function userInfo(user){
-  finalString += '**'user.username + '**ID** ' + user.id + '** Created ** ' +user.createdAt;
-  return finalString;
-}
+
 
 client.on('ready', () => {
   client.user.setGame('Çalışmalar devam ediyor. Twitch kanalımıza gitmek için İZLE butonuna basabilirsin :) ', 'https://www.twitch.tv/muhendisbeymuhendishanim')
@@ -56,5 +53,10 @@ client.on('guildMemberAdd', member => {
    member.send(' Discord sunucumuza hoşgeldin. Sunucudaki diğer odaları görebilmek için #rol-secimi kanalından rollerini alabilirsin.  Ayrıca #kurallar-kanaladavet kanalından sunucu kurallarını okumayı da unutma :slight_smile:  İyi eğlenceler :heart: ');
 });
 
+
+function userInfo(user){
+  finalString += '**'user.username + '**ID** ' + user.id + '** Created ** ' +user.createdAt;
+  return finalString;
+}
 
 client.login(process.env.BOT_TOKEN);
