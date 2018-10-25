@@ -29,6 +29,15 @@ client.on('message', message => {
   }
 });
 
+client.on('message', message => {
+  // If the message is "what is my avatar"
+  guildMember = message.author;
+  
+  if (message.content === 'deneme') {
+    // Send the user's avatar URL
+    message.reply(` Mesajı yazan kullanıcı :` + guildMember);
+  }
+});
 
 
 
