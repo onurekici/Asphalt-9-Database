@@ -30,16 +30,16 @@ client.on('message', message => {
   // If the message is "what is my avatar"
   
   guildMember = message.member;
-  if (message.content === 'deneme') {
+  if (message.content === 'bilgilerim') {
     // Send the user's avatar URL
    
  
-   
+   userID = 'Kullanıcı ID : ' + guildMember.id + '\n'; 
     joinDiscord = 'Hesap oluşturma tarihi :' + guildMember.user.createdAt + '\n'  ;
    joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
 	  
 	  
-    message.reply(' ``` \n'+ joinDiscord + joinServer + ' ```' );
+    message.reply(' ``` \n'+ userID + joinDiscord + joinServer + ' ```' );
    
 
   }
