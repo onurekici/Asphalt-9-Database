@@ -35,7 +35,7 @@ client.on('message', message => {
   // If the message is "what is my avatar"
   if (message.content === 'bilgilerim') {
     // Send the user's avatar URL
-    message.reply(userInfo(sender));
+    message.channel.send(userInfo(sender));
   }
 });
 
