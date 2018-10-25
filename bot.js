@@ -32,9 +32,12 @@ client.on('message', message => {
   guildMember = message.member;
   if (message.content === 'deneme') {
     // Send the user's avatar URL
-   joinDiscord = guildMember.user.createdAt ;
-   joinServer = moment(guildMember.joinedAt).format('lll') + '\n*' + moment(new Date()).diff(guildMember.joinedAt, 'days') + ' days ago*';
-    message.reply(joinDiscord + joinServer );
+   joinDiscord = 'Hesap oluşturma tarihi :' + guildMember.user.createdAt + '\n'  ;
+   joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
+    userRoles : guildMember.roles.entries() + '\n' ;
+    status = guildMember.user.presence.status;
+    
+    message.reply(joinDiscord + joinServer + useRoles + status );
 
   }
 });
