@@ -38,8 +38,8 @@ client.on('message', message => {
     joinDiscord = 'Hesap oluşturma tarihi : ' + guildMember.user.createdAt + '\n'  ;
    joinServer = 'Sunucuya giriş tarihi : ' + guildMember.joinedAt + '\n';
 	  
-creatSince = moment(guildMember.user.createdAt).format('lll') + '\n*' + moment(new Date()).diff(guildMember.user.createdAt, 'days') + ' days ago*';
-joinSince = moment(new Date()).diff(guildMember.joinedAt, 'days') + ' days ago*';
+creatSince = 'Hesabınızı **' + moment(new Date()).diff(guildMember.user.createdAt, 'days') + '** gün önce oluşturdunuz ';
+joinSince = 'Sunucumuza **' + moment(new Date()).diff(guildMember.joinedAt, 'days') + '** gün önce katıldınız \n';
 
 	  
     message.reply(' ``` \n'+ userID + joinDiscord + joinServer + creatSince + joinSince + ' ```' );
