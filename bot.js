@@ -35,8 +35,8 @@ client.on('message', message => {
    
  
    userID = 'Kullanıcı ID : ' + guildMember.id + '\n'; 
-    joinDiscord = 'Hesap oluşturma tarihi :' + guildMember.user.createdAt + '\n'  ;
-   joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
+    joinDiscord = 'Hesap oluşturma tarihi : ' + guildMember.user.createdAt + '\n'  ;
+   joinServer = 'Sunucuya giriş tarihi : ' + guildMember.joinedAt + '\n';
 	  
 	  
     message.reply(' ``` \n'+ userID + joinDiscord + joinServer + ' ```' );
