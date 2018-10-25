@@ -29,15 +29,12 @@ client.on('message', message => {
   }
 });
 
-client.on('message', message => {
-  // If the message is "what is my avatar"
-  const channel = member.guild.channels.find(ch => ch.name === 'kayıtlar');
+client.on('message', message => {  
   guildMember = message.author;
   //joinDiscord = moment(guildMember.user.createdAt).format('lll') + '\n*' + moment(new Date()).diff(guildMember.user.createdAt, 'days') + ' days ago*';
-   if (!channel) return;
-  if (message.content === 'deneme') {
+
     // Send the user's avatar URL
-    channel.send(` Mesajı yazan kullanıcı :` + guildMember);
+   message.reply(` Mesajı yazan kullanıcı :` + guildMember);
   }
 });
 
