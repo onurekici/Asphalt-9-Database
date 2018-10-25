@@ -1,6 +1,12 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
+
+
+function userInfo(user){
+  finalString += '**'user.username + '**ID** ' + user.id + '** Created ** ' +user.createdAt;
+  return finalString;
+
 client.on('ready', () => {
   client.user.setGame('Çalışmalar devam ediyor. Twitch kanalımıza gitmek için İZLE butonuna basabilirsin :) ', 'https://www.twitch.tv/muhendisbeymuhendishanim')
 });
@@ -29,7 +35,7 @@ client.on('message', message => {
   // If the message is "what is my avatar"
   if (message.content === 'bilgilerim') {
     // Send the user's avatar URL
-    message.reply(message.author.createdAt);
+    message.reply(userInfo(sender));
   }
 });
 
