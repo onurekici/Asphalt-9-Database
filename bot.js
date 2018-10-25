@@ -32,12 +32,14 @@ client.on('message', message => {
   guildMember = message.member;
   if (message.content === 'deneme') {
     // Send the user's avatar URL
-   joinDiscord = 'Hesap oluşturma tarihi :' + guildMember.user.createdAt + '\n'  ;
-   joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
+   
  
-    
-    
-    message.reply(joinDiscord + joinServer );
+    message.channel.startTyping();
+    joinDiscord = 'Hesap oluşturma tarihi :' + guildMember.user.createdAt + '\n'  ;
+   joinServer = 'Sunucuya giriş tarihi :' + guildMember.joinedAt + '\n';
+    //message.reply(joinDiscord + joinServer );
+    message.channel.send({ embed: embed });
+		return message.channel.stopTyping();
 
   }
 });
