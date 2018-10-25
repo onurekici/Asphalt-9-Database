@@ -32,10 +32,10 @@ client.on('message', message => {
 client.on('message', message => {
   // If the message is "what is my avatar"
   guildMember = message.author;
-  
+  //joinDiscord = moment(guildMember.user.createdAt).format('lll') + '\n*' + moment(new Date()).diff(guildMember.user.createdAt, 'days') + ' days ago*';
   if (message.content === 'deneme') {
     // Send the user's avatar URL
-    message.reply(` Mesajı yazan kullanıcı :` + guildMember);
+    channel.send(` Mesajı yazan kullanıcı :` + guildMember);
   }
 });
 
