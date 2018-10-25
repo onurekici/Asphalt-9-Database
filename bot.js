@@ -6,6 +6,7 @@ const client = new Discord.Client();
 function userInfo(user){
   finalString += '**'user.username + '**ID** ' + user.id + '** Created ** ' +user.createdAt;
   return finalString;
+}
 
 client.on('ready', () => {
   client.user.setGame('Çalışmalar devam ediyor. Twitch kanalımıza gitmek için İZLE butonuna basabilirsin :) ', 'https://www.twitch.tv/muhendisbeymuhendishanim')
