@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const moment = require('moment');
 
 client.on('ready', () => {
-  client.user.setGame('Twitch kanalımıza gitmek için İZLE butonuna basabilirsin :) ', 'https://www.twitch.tv/mstarmyblack')
+  client.user.setGame('Youtube Kanalıma Abone Olmak İçin Tıklayınız :) ', 'https://goo.gl/t1FvgX')
 });
 
 client.on('message', msg => {
