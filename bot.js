@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const Discord = require('araclar.js');
+//const Discord = require('araclar.js');
 const client = new Discord.Client();
 const moment = require('moment');
 
