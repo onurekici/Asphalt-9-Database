@@ -2,18 +2,16 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const moment = require('moment');
 
-// Global Settings
-const prefix = '!'; 
+const prefix = '!';
 
-
-bot.on('ready', () => {
-  client.user.setGame('Youtube Kanalıma Abone Olmak İçin Tıklayınız https://goo.gl/t1FvgX:) ', 'https://goo.gl/t1FvgX')
-});
-
-bot.on('message', msg => {
+bot.on('ready', () => 
+	  {
+	bot.user.setGame('Youtube Kanalıma Abone Olmak İçin Tıklayınız https://goo.gl/t1FvgX:) ', 'https://goo.gl/t1FvgX')
+	bot.on('message', msg => {	
   if (msg.content === 'sa') {
     msg.reply('Aleyküm Selam hoşgeldin');
   }
+
 });
 
 bot.on('message', msg => {
@@ -56,8 +54,8 @@ joinSince = 'Sunucumuza ' + moment(new Date()).diff(guildMember.joinedAt, 'days'
 
 
 
-
-/*bot.on('guildMemberAdd', member => {
+/*
+bot.on('guildMemberAdd', member => {
   // Send the message to a designated channel on a server:
   const channel = member.guild.channels.find(ch => ch.name === 'hoş-geldiniz-🎀');
   // Do nothing if the channel wasn't found on this server
@@ -68,7 +66,12 @@ joinSince = 'Sunucumuza ' + moment(new Date()).diff(guildMember.joinedAt, 'days'
 
 bot.on('guildMemberAdd', member => {
    member.send(' Discord sunucumuza hoşgeldin. Sunucudaki diğer odaları görebilmek için #rol-secimi kanalından rollerini alabilirsin.  Ayrıca #kurallar-kanaladavet kanalından sunucu kurallarını okumayı da unutma :slight_smile:  İyi eğlenceler :heart: ');
-});  */
+});
+
+*/
+
+
+
 
 
 bot.on('message', message => {
@@ -97,7 +100,7 @@ bot.on('message', message => {
             message.delete(); // Let's delete the command message, so it doesn't interfere with the messages we are going to delete.
 
             // Now, we want to check if the user has the `bot-commander` role, you can change this to whatever you want.
-            if (!message.member.roles.find("name", "Yönetici")) { // This checks to see if they DONT have it, the "!" inverts the true/false
+            if (!message.member.roles.find("name", "MÜHENDİSLER")) { // This checks to see if they DONT have it, the "!" inverts the true/false
                 message.channel.send('Bu komutu kullanacak yetkiye sahip değilsiniz!'); // This tells the user in chat that they need the role.
                 return; // this returns the code, so the rest doesn't run.
             }
@@ -132,8 +135,6 @@ bot.on('ready', () => {
     console.log('Bot started.');
 
 });
-
-
 
 
 
