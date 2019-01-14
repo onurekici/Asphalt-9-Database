@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const moment = require('moment');
 
 client.on('ready', () => {
-  client.user.setGame('Çalışmalar devam ediyor. Twitch kanalımıza gitmek için İZLE butonuna basabilirsin :) ', 'https://www.twitch.tv/muhendisbeymuhendishanim')
+  client.user.setGame('Twitch kanalımıza gitmek için İZLE butonuna basabilirsin :) ', 'https://www.twitch.tv/mstarmyblack')
 });
 
 client.on('message', msg => {
@@ -53,7 +53,7 @@ joinSince = 'Sunucumuza ' + moment(new Date()).diff(guildMember.joinedAt, 'days'
 
 
 
-client.on('guildMemberAdd', member => {
+/*client.on('guildMemberAdd', member => {
   // Send the message to a designated channel on a server:
   const channel = member.guild.channels.find(ch => ch.name === 'hoş-geldiniz-🎀');
   // Do nothing if the channel wasn't found on this server
@@ -64,7 +64,7 @@ client.on('guildMemberAdd', member => {
 
 client.on('guildMemberAdd', member => {
    member.send(' Discord sunucumuza hoşgeldin. Sunucudaki diğer odaları görebilmek için #rol-secimi kanalından rollerini alabilirsin.  Ayrıca #kurallar-kanaladavet kanalından sunucu kurallarını okumayı da unutma :slight_smile:  İyi eğlenceler :heart: ');
-});
+});  */
 
 
 
