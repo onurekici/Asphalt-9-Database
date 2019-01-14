@@ -4,7 +4,7 @@ const client = new Discord.Client();
 const moment = require('moment');
 
 client.on('ready', () => {
-  client.user.setGame('Youtube Kanalıma Abone Olmak İçin Tıklayınız :) ', 'https://goo.gl/t1FvgX')
+  client.user.setGame('Youtube Kanalıma Abone Olmak İçin Tıklayınız https://goo.gl/t1FvgX:) ', 'https://goo.gl/t1FvgX')
 });
 
 client.on('message', msg => {
