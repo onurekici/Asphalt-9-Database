@@ -6,7 +6,7 @@ const prefix = '!';
 
 bot.on('ready', () => 
 	  {
-	bot.user.setGame('Youtube Kanalıma Abone Olmak İçin Tıklayınız https://goo.gl/t1FvgX:) ', 'https://goo.gl/t1FvgX')
+	bot.user.setGame('Youtube Kanalıma Abone Olmak İçin Tıklayınız https://goo.gl/t1FvgX:) ', 'https://goo.gl/t1FvgX') });
 	bot.on('message', msg => {	
   if (msg.content === 'sa') {
     msg.reply('Aleyküm Selam hoşgeldin');
