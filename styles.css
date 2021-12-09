@@ -1,0 +1,34 @@
+.xbox.controller {
+    background-image: url("./assets/base.png") !important;
+}
+.xbox .back, .xbox .start {
+    background-image: url("./assets/start-select.png") !important;
+}
+
+.xbox .button {
+    background-image: url("./assets/abxy.png") !important;
+}
+
+.xbox .bumper {
+    background-image: url("./assets/bumper.png") !important;
+}
+
+.xbox .quadrant {
+    background-image: url("./assets/quadrant.png") !important;
+}
+
+.xbox .face {
+    background-image: url("./assets/dpad.png") !important;
+}
+
+.xbox .stick {
+    background-image: url("./assets/stick.png") !important;
+}
+
+.xbox .trigger {
+    background-image: url("./assets/trigger.png") !important;
+}
+
+.xbox.disconnected {
+    background: url("./assets/disconnected.png") !important;
+}
