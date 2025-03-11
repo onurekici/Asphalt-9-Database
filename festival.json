@@ -1,4 +1,285 @@
- {
+{
+"disease": {
+    "title": "Disease",
+    "artist": "Lady Gaga",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/qlcdwbxz0jgcyrhw-512x512-58017092f8d3.jpg",
+    "bpm": 101,
+    "duration": "3m 50s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 2,
+      "plastic-bass": 2,
+      "plastic-drums": 2,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-02-17T00:01:55.655Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/9ee698ab8f99d26e0f40dc431a531428747cc410"
+  },
+ "dancingintheflames": {
+    "title": "Dancing in the Flames",
+    "artist": "The Weeknd",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/9icisivdktftsgui-512x512-d3d5673c4d47.jpg",
+    "bpm": 117,
+    "duration": "3m 44s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 5,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": 3,
+      "plastic-drums": 4,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-03-08T00:01:53.905Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/4bef2c96b5e7a47483c843e8ea8c04ff3ea065e1"
+  },
+ "bornthisway": {
+    "title": "Born This Way",
+    "artist": "Lady Gaga",
+    "releaseYear": 2011,
+    "cover": "https://cdn2.unrealengine.com/swyzmcoklt5fcp84-512x512-44713dccabd8.jpg",
+    "bpm": 124,
+    "duration": "4m 25s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 4,
+      "bass": 4,
+      "drums": 3,
+      "plastic-bass": 3,
+      "plastic-drums": 3,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-02-21T00:01:00.900Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0babf4d4a9541ef3f664e3dd87ab51be6f16c610"
+  },
+ "justagirl": {
+    "title": "Just A Girl",
+    "artist": "No Doubt",
+    "releaseYear": 1995,
+    "cover": "https://cdn2.unrealengine.com/itpeltcq2wihibfk-512x512-feb3b9688b30.jpg",
+    "bpm": 108,
+    "duration": "3m 27s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 4,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 4,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-02-06T00:01:49.557Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1cd97aefe74cf314ed91011a50adec3cc4e81918"
+  }
+ "lonelyboy": {
+    "title": "Lonely Boy",
+    "artist": "The Black Keys",
+    "releaseYear": 2011,
+    "cover": "https://cdn2.unrealengine.com/cw2ofkzhq2d4cptf-512x512-d93a528d69e8.jpg",
+    "bpm": 166,
+    "duration": "3m 12s",
+    "difficulties": {
+      "vocals": 1,
+      "guitar": 3,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": 0,
+      "plastic-drums": 3,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-01-03T00:01:51.179Z",
+    "lastFeatured": "2025-02-24T00:00:44.046Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7e58cbf43a1bba930c09c8bd32337ba821c18059"
+  },
+ "lessthan": {
+    "title": "Less Than",
+    "artist": "Nine Inch Nails",
+    "releaseYear": 2017,
+    "cover": "https://cdn2.unrealengine.com/olz4zlc9mqsokyzw-512x512-c969d931bc60.jpg",
+    "bpm": 128,
+    "duration": "3m 35s",
+    "difficulties": {
+      "vocals": 1,
+      "guitar": 4,
+      "bass": 2,
+      "drums": 4,
+      "plastic-bass": 1,
+      "plastic-drums": 4,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/ad7c58ed22e3994993b90b43b2fb4e509cebd81f?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
+  "miserybusiness": {
+    "title": "Misery Business",
+    "artist": "Paramore",
+    "releaseYear": 2007,
+    "cover": "https://cdn2.unrealengine.com/w8rdujbyldvsvdis-512x512-c1776242f3bf.jpg",
+    "bpm": 173,
+    "duration": "3m 21s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 5,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": 3,
+      "plastic-drums": 5,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-03-05T00:02:00.499Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ba87b3463a795afa81ee18d3fbb116bb7793140e?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
+  "transparentsoul": {
+    "title": "t r a n s p a r e n t s o u l",
+    "artist": "WILLOW ft. Travis Barker",
+    "releaseYear": 2021,
+    "cover": "https://cdn2.unrealengine.com/gs68gnrsh03urzo5-512x512-937b5d2bffcf.jpg",
+    "bpm": 180,
+    "duration": "2m 51s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 5,
+      "plastic-bass": 2,
+      "plastic-drums": 4,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-03-06T00:01:35.250Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0f6586f8db721984a5af518d3a3427783a373a39"
+  },
+ "theedgeofglory": {
+    "title": "The Edge of Glory",
+    "artist": "Lady Gaga",
+    "releaseYear": 2011,
+    "cover": "https://cdn2.unrealengine.com/swyzmcoklt5fcp84-512x512-a24b7d1557af.jpg",
+    "bpm": 128,
+    "duration": "5m 22s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 5,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": 2,
+      "plastic-drums": 3,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/e6176e52faf40bb712edaa359899bed3bd0671d1"
+  },
+ "thefinalcountdown": {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "releaseYear": 1986,
+    "cover": "https://cdn2.unrealengine.com/e7cf27do7xpaki2b-512x512-7734c7da0e35.jpg",
+    "bpm": 117,
+    "duration": "5m 30s",
+    "difficulties": {
+      "vocals": 1,
+      "guitar": 5,
+      "bass": 4,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 4,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-02-13T00:01:01.051Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/eaa4589de811f47326f5a15013ed58bd62a9e96a?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
+ "thisaintascene": {
+    "title": "This Ain't A Scene, It's An Arms Race",
+    "artist": "Fall Out Boy",
+    "releaseYear": 2006,
+    "cover": "https://cdn2.unrealengine.com/xo61upuwl45vezyq-512x512-110fe8bb0870.jpg",
+    "bpm": 100,
+    "duration": "3m 33s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 4,
+      "plastic-bass": 3,
+      "plastic-drums": 4,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2024-12-27T00:01:24.711Z",
+    "lastFeatured": "2025-03-11T00:01:27.223Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a223021088b2a9ca739fbe73f8cf916aec3105b8",
+    "featured": true
+  },
+ "welcometoparadise": {
+    "title": "Welcome to Paradise",
+    "artist": "Green Day",
+    "releaseYear": 1994,
+    "cover": "https://cdn2.unrealengine.com/hxgcbghz24dib61d-512x512-a77c7dff6e98.jpg",
+    "bpm": 91,
+    "duration": "4m 30s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 5,
+      "bass": 5,
+      "drums": 6,
+      "plastic-bass": 4,
+      "plastic-drums": 6,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-01-12T00:01:31.180Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/3997c511ba41414ffd460b57caefb59b925ebbea?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
+ "youdontknowwhatyouvegot": {
+    "title": "YOU DON'T KNOW WHAT YOU'VE GOT",
+    "artist": "blink-182",
+    "releaseYear": 2023,
+    "cover": "https://cdn2.unrealengine.com/6v87ptciedi4mbcq-512x512-f3c60e163fc3.jpg",
+    "bpm": 156,
+    "duration": "3m 19s",
+    "difficulties": {
+      "vocals": 1,
+      "guitar": 2,
+      "bass": 2,
+      "drums": 5,
+      "plastic-bass": 2,
+      "plastic-drums": 5,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/6618c923be5b5beb07be70b019255409bf99dc7f?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
+ "snow": {
+    "title": "Snow (Hey Oh)",
+    "artist": "Red Hot Chili Peppers",
+    "releaseYear": 2006,
+    "cover": "https://cdn2.unrealengine.com/dfj79hc6oi4gzul7-512x512-35541ff4ff73.jpg",
+    "bpm": 105,
+    "duration": "5m 38s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 5,
+      "bass": 3,
+      "drums": 2,
+      "plastic-bass": 3,
+      "plastic-drums": 3,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2025-01-10T00:01:07.709Z",
+    "lastFeatured": "2025-02-15T00:01:06.015Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d1e419a7f2aa9ba761be88802dbd3560b8f99776"
+  },
   "ogfutureremix": {
     "title": "OG (Future Remix)",
     "artist": "Epic Games",
