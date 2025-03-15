@@ -1,4 +1,25 @@
-{
+}
+  "throughthefireandflames": {
+    "title": "Through the Fire and Flames",
+    "artist": "DragonForce",
+    "releaseYear": 2005,
+    "cover": "https://cdn2.unrealengine.com/seigzdgnpop9tfuc-512x512-59d9ffb46105.jpg",
+    "bpm": 100,
+    "duration": "7m 22s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 6,
+      "bass": 5,
+      "drums": 6,
+      "plastic-bass": 5,
+      "plastic-drums": 6,
+      "plastic-guitar": 6
+    },
+    "createdAt": "2025-03-15T00:01:10.507Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
+  },
+
 "disease": {
     "title": "Disease",
     "artist": "Lady Gaga",
