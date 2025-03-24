@@ -19,7 +19,26 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
-
+  "ellabailasola": {
+    "title": "Ella Baila Sola",
+    "artist": "Eslabon Armado, Peso Pluma",
+    "releaseYear": 2023,
+    "cover": "https://cdn2.unrealengine.com/lagmw82dast9e58h-512x512-abf794b8d3bf.jpg",
+    "bpm": 99,
+    "duration": "2m 49s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 5,
+      "bass": 5,
+      "drums": 2,
+      "plastic-bass": 5,
+      "plastic-drums": 3,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-02-20T00:00:37.208Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5d39f3e17f1e20e2711d033001e48b8d4249b992?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
 "disease": {
     "title": "Disease",
     "artist": "Lady Gaga",
