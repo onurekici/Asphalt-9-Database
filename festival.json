@@ -19,6 +19,46 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+  "i_kendrick": {
+    "title": "i",
+    "artist": "Kendrick Lamar",
+    "releaseYear": 2015,
+    "cover": "https://cdn2.unrealengine.com/e9grrtvjygnzygyd-512x512-556e08ad44a8.jpg",
+    "bpm": 122,
+    "duration": "3m 57s",
+    "difficulties": {
+      "vocals": 6,
+      "guitar": 3,
+      "bass": 6,
+      "drums": 5,
+      "plastic-bass": 5,
+      "plastic-drums": 5,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/330c6d6e5bfcc1bc831b6948b57ce9c98e7558bf"
+  },
+  "surroundsound": {
+    "title": "Surround Sound",
+    "artist": "JID ft. 21 Savage & Baby Tate",
+    "releaseYear": 2022,
+    "cover": "https://cdn2.unrealengine.com/wdfsb87lid87hugv-512x512-f27ea5001391.jpg",
+    "bpm": 152,
+    "duration": "3m 54s",
+    "difficulties": {
+      "vocals": 6,
+      "guitar": 2,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": 0,
+      "plastic-drums": 2,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-03-03T00:01:42.751Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/36d85482bb5b1c01e4572288d1982f0fb41d133e"
+  }, 
   "ellabailasola": {
     "title": "Ella Baila Sola",
     "artist": "Eslabon Armado, Peso Pluma",
