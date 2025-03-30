@@ -19,6 +19,190 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+  "september": {
+    "title": "September",
+    "artist": "Earth, Wind & Fire",
+    "releaseYear": 1978,
+    "cover": "https://cdn2.unrealengine.com/zl6tclidfjsmrfm6-512x512-9c9fd3777823.jpg",
+    "bpm": 124,
+    "duration": "3m 46s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 4,
+      "bass": 3,
+      "drums": 2,
+      "plastic-bass": 3,
+      "plastic-drums": 1,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-01-21T00:01:35.813Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/27390b5ac85b9dd997e8ae98a3356f0dd4a61f51?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
+    "sournsweet": {
+    "title": "Sour 'n Sweet",
+    "artist": "Epic Games",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/7zn86wlgbnjoet7p-512x512-ec93e510bf99.jpg",
+    "bpm": 104,
+    "duration": "3m 9s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 2,
+      "bass": 0,
+      "drums": 4,
+      "plastic-bass": 1,
+      "plastic-drums": 4,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-03-26T00:01:33.441Z",
+    "lastFeatured": null,
+    "previewUrl": null
+  },
+  "santeria": {
+    "title": "Santeria",
+    "artist": "Sublime",
+    "releaseYear": 1996,
+    "cover": "https://cdn2.unrealengine.com/jizd6fjmsymzhnmo-512x512-5c69f9d6c0f5.jpg",
+    "bpm": 90,
+    "duration": "3m 10s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 4,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": 4,
+      "plastic-drums": 3,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-03-27T00:00:40.699Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/9bd14340e2c557e2e9cdc454f0820b20dd48100e"
+  },
+  "gowiththeflow": {
+    "title": "Go With The Flow",
+    "artist": "Queens of the Stone Age",
+    "releaseYear": 2002,
+    "cover": "https://cdn2.unrealengine.com/u7d4obz42ahc0vf1-512x512-0da19ff619b5.jpg",
+    "bpm": 159,
+    "duration": "3m 7s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 2,
+      "bass": 2,
+      "drums": 4,
+      "plastic-bass": 2,
+      "plastic-drums": 4,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-02-28T00:01:12.624Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/577b07102556a00ac8f4d7ecc49ae8051974316f"
+  },
+   "superfreak": {
+    "title": "Super Freak",
+    "artist": "Rick James",
+    "releaseYear": 1981,
+    "cover": "https://cdn2.unrealengine.com/tojqnydc6qx98uiz-512x512-cd67f26a1a34.jpg",
+    "bpm": 132,
+    "duration": "3m 18s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 2,
+      "plastic-bass": 2,
+      "plastic-drums": 1,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-02-20T00:00:37.208Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ef2c59a916249d860115a1fb2f99c0854a6b6b25"
+  },
+  "numb": {
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "releaseYear": 2003,
+    "cover": "https://cdn2.unrealengine.com/0o4fntpnuwyu1bqf-512x512-6f1cd4a9229d.jpg",
+    "bpm": 110,
+    "duration": "3m 7s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 0,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": 0,
+      "plastic-drums": 4,
+      "plastic-guitar": 0
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-03-30T00:00:57.998Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d6d67b4f23b4865e07821f78c45a98035da95d61?cid=ace3af5515b3429d8fbf1bb99bcd1310",
+    "featured": true
+  },
+  "faint": {
+    "title": "Faint",
+    "artist": "Linkin Park",
+    "releaseYear": 2003,
+    "cover": "https://cdn2.unrealengine.com/ftqtzggzjfgzixsx-512x512-07df13e129c9.jpg",
+    "bpm": 135,
+    "duration": "2m 46s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 3,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": 1,
+      "plastic-drums": 2,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-03-26T00:01:32.898Z",
+    "lastFeatured": "2025-03-30T00:00:57.999Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/93e66af3a92081740710b18e45dcc9eeff08edbf",
+    "featured": true
+  },
+  "theemptinessmachine": {
+    "title": "The Emptiness Machine",
+    "artist": "Linkin Park",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/moxrcr02ii3nzczy-512x512-84b0a9c933fa.jpg",
+    "bpm": 92,
+    "duration": "3m 15s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 1,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": 1,
+      "plastic-drums": 2,
+      "plastic-guitar": 1
+    },
+    "createdAt": "2025-03-26T00:01:33.441Z",
+    "lastFeatured": "2025-03-30T00:00:57.999Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/edc686b7336602448c4253ea253441078ead0475",
+    "featured": true
+  },
+  "upfromthebottom": {
+    "title": "Up From The Bottom",
+    "artist": "Linkin Park",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/bw7rd9kumregxy84-512x512-503e2454337d.jpg",
+    "bpm": 107,
+    "duration": "3m 6s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 3,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2025-03-28T00:01:38.709Z",
+    "lastFeatured": "2025-03-30T00:00:57.999Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/00107d00aabd6ab0fc779f9da4556b9cfee3f990",
+    "featured": true
+  },
   "i_kendrick": {
     "title": "i",
     "artist": "Kendrick Lamar",
