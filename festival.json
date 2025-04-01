@@ -19,6 +19,86 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+   "stressedout": {
+    "title": "Stressed Out",
+    "artist": "Twenty One Pilots",
+    "releaseYear": 2015,
+    "cover": "https://cdn2.unrealengine.com/11lx5pmkaczdytdf-640x640-ea4c680b60d4.jpg",
+    "bpm": 85,
+    "duration": "3m 29s",
+    "difficulties": {
+      "vocals": 5,
+      "guitar": 1,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": 1,
+      "plastic-drums": 3,
+      "plastic-guitar": 1
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-03-27T00:00:40.699Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d01bb6b4b9952d95d2609632474cda8e632e044d?cid=ace3af5515b3429d8fbf1bb99bcd1310"
+  },
+  "aintitfun": {
+    "title": "Ain't It Fun",
+    "artist": "Paramore",
+    "releaseYear": 2013,
+    "cover": "https://cdn2.unrealengine.com/tug03vh9qemz03d3-512x512-41baf39d7bcb.jpg",
+    "bpm": 104,
+    "duration": "5m 3s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 4,
+      "drums": 3,
+      "plastic-bass": 4,
+      "plastic-drums": 3,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2025-03-19T00:01:05.012Z",
+    "lastFeatured": "2025-03-27T00:00:40.699Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/75fcf967520ab9dfc043833e9b2a86c2882228be"
+  },
+   "stillintoyou": {
+    "title": "Still Into You",
+    "artist": "Paramore",
+    "releaseYear": 2013,
+    "cover": "https://cdn2.unrealengine.com/ylt0wb41zlw9xgit-512x512-84b5ea8d9e7f.jpg",
+    "bpm": 136,
+    "duration": "3m 32s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": 3,
+      "plastic-drums": 3,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2025-03-19T00:01:05.778Z",
+    "lastFeatured": "2025-03-27T00:00:40.699Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/4abdea56e053fe7d0f4f4e446b43d404b28edf69"
+  },
+  "backstreetsback": {
+    "title": "Everybody (Backstreet's Back)",
+    "artist": "Backstreet Boys",
+    "releaseYear": 1997,
+    "cover": "https://cdn2.unrealengine.com/p1rfqaf7yfkhilkj-512x512-937a1b792d8b.jpg",
+    "bpm": 108,
+    "duration": "3m 48s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 2,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-03-09T00:01:17.835Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f478363d1e7d378ce3f982a2542c386fd10b4e8d"
+  },
   "september": {
     "title": "September",
     "artist": "Earth, Wind & Fire",
