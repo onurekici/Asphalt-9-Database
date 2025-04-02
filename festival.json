@@ -19,6 +19,27 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+  "nevergonnagiveyouup": {
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "releaseYear": 1987,
+    "cover": "https://cdn2.unrealengine.com/gierwkbhgfwdaq9j-512x512-d782d2268589.jpg",
+    "bpm": 113,
+    "duration": "3m 57s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 2,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": 3,
+      "plastic-drums": 3,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-04-02T00:01:43.097Z",
+    "lastFeatured": "2025-04-02T00:01:43.097Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b4c682084c3fd05538726d0a126b7e14b6e92c83",
+    "featured": true
+  },
    "stressedout": {
     "title": "Stressed Out",
     "artist": "Twenty One Pilots",
