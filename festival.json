@@ -19,6 +19,108 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+  "gasolina": {
+    "title": "Gasolina",
+    "artist": "Daddy Yankee",
+    "releaseYear": 2004,
+    "cover": "https://cdn2.unrealengine.com/s2pfmz0bxrixuqe4-512x512-4141c3ed596c.jpg",
+    "bpm": 96,
+    "duration": "3m 19s",
+    "difficulties": {
+      "vocals": 5,
+      "guitar": 4,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": 1,
+      "plastic-drums": 3,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2025-04-02T00:01:42.380Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/887b2e1f195333800d3c8a7537097cc7bd7bdc3d"
+  },
+  "ftcu": {
+    "title": "FTCU",
+    "artist": "Nicki Minaj",
+    "releaseYear": 2023,
+    "cover": "https://cdn2.unrealengine.com/m7slgzehkowaj7qq-512x512-bd2b817eace1.jpg",
+    "bpm": 145,
+    "duration": "2m 44s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 0,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": 1,
+      "plastic-drums": 3,
+      "plastic-guitar": 0
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-04-07T00:01:39.475Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c7bb59bb3ff6d3989868d7b43becb4bd22fd2a75",
+    "featured": true
+  },
+  "thebusiness": {
+    "title": "The Business",
+    "artist": "Tiësto",
+    "releaseYear": 2020,
+    "cover": "https://cdn2.unrealengine.com/tt9wtkwt9ogfzish-512x512-b55239e56fdc.jpg",
+    "bpm": 120,
+    "duration": "2m 47s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 1,
+      "plastic-drums": 2,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-04-07T00:01:39.475Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e516723e41dab08c241fc981aeed21407f322d72?cid=ace3af5515b3429d8fbf1bb99bcd1310",
+    "featured": true
+  },
+  "closer2": {
+    "title": "Closer",
+    "artist": "Ne-Yo",
+    "releaseYear": 2008,
+    "cover": "https://cdn2.unrealengine.com/0zja0lolywb1w3bf-512x512-3f40123c6772.jpg",
+    "bpm": 126,
+    "duration": "3m 58s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 4,
+      "plastic-bass": 2,
+      "plastic-drums": 3,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-02-07T00:01:56.424Z",
+    "lastFeatured": "2025-04-06T00:01:13.832Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/4f1838ffaca228016ea36a3ecfa7f0202a740360"
+  },
+  "theboysareback": {
+    "title": "The Boys Are Back In Town",
+    "artist": "Thin Lizzy",
+    "releaseYear": 1976,
+    "cover": "https://cdn2.unrealengine.com/ov6ieyvtvw0q3kja-512x512-ec4239f7f5e8.jpg",
+    "bpm": 160,
+    "duration": "4m 50s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 4,
+      "bass": 4,
+      "drums": 3,
+      "plastic-bass": 4,
+      "plastic-drums": 4,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-04-06T00:01:13.832Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/753aaed7d16ec2dac0ff8af05123177a44c19351"
+  },
   "nevergonnagiveyouup": {
     "title": "Never Gonna Give You Up",
     "artist": "Rick Astley",
