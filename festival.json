@@ -19,6 +19,270 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+    "nonsense": {
+    "title": "Nonsense",
+    "artist": "Sabrina Carpenter",
+    "releaseYear": 2022,
+    "cover": "https://cdn2.unrealengine.com/5vinwwywjlqtm6zq-512x512-d12ea8c7fda1.jpg",
+    "bpm": 139,
+    "duration": "2m 49s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 2,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2025-04-09T00:01:38.111Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/e40303992e72f58bd297f7994a0dafde76ceb2ac"
+  },
+  "pleasepleaseplease": {
+    "title": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/58czand2cjulqqz2-512x512-3e9929d17e48.jpg",
+    "bpm": 107,
+    "duration": "3m 9s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 4,
+      "bass": 1,
+      "drums": 1,
+      "plastic-bass": 1,
+      "plastic-drums": 1,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2025-04-09T00:01:38.813Z",
+    "lastFeatured": "2025-04-09T00:01:38.813Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/81cc48794bef6a2832b50acff69a68ac331b35ff",
+    "featured": true
+  },
+  "thefutureme": {
+    "title": "The Future Me",
+    "artist": "Epic Games",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/piol6lsh2moppvyt-512x512-bd222cb00fb0.jpg",
+    "bpm": 172,
+    "duration": "3m 47s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 5,
+      "bass": 3,
+      "drums": 6,
+      "plastic-bass": 3,
+      "plastic-drums": 5,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2025-04-09T00:01:38.813Z",
+    "lastFeatured": null,
+    "previewUrl": null
+  },
+  "touchthesun": {
+    "title": "Touch the Sun",
+    "artist": "Epic Games",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/epguyjht4ljijrsp-512x512-90153635a17f.jpg",
+    "bpm": 125,
+    "duration": "2m 52s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 5,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 1,
+      "plastic-drums": 3,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2025-04-09T00:01:38.813Z",
+    "lastFeatured": null,
+    "previewUrl": null
+  },
+  "yououghtaknow": {
+    "title": "You Oughta Know",
+    "artist": "Alanis Morissette",
+    "releaseYear": 1995,
+    "cover": "https://cdn2.unrealengine.com/jb6qevehvhebieo3-512x512-16f17c4c2d56.jpg",
+    "bpm": 105,
+    "duration": "4m 12s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 2,
+      "bass": 4,
+      "drums": 3,
+      "plastic-bass": 3,
+      "plastic-drums": 4,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-04-09T00:01:39.189Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/4a21163f1a57a63106d1cfaa3802cfeda8c85cc4"
+  },
+  "allmypeople": {
+    "title": "All My People",
+    "artist": "Epic Games",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/70ol5pqfqfptdrhz-512x512-37ffc1a2719e.jpg",
+    "bpm": 118,
+    "duration": "3m 39s",
+    "difficulties": {
+      "vocals": 1,
+      "guitar": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": 3,
+      "plastic-drums": 2,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2025-04-09T00:01:39.189Z",
+    "lastFeatured": null,
+    "previewUrl": null
+  },
+  "taste": {
+    "title": "Taste",
+    "artist": "Sabrina Carpenter",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/lpofigvnogyezlqv-512x512-bddd03fdcb8f.jpg",
+    "bpm": 113,
+    "duration": "2m 39s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 1,
+      "plastic-drums": 1,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2025-04-09T00:01:39.808Z",
+    "lastFeatured": "2025-04-09T00:01:39.808Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b71b2040e08650ae44fe989d81382f572009ab7c",
+    "featured": true
+  },
+  "thelastcavallard": {
+    "title": "The Last Cavallard",
+    "artist": "Epic Games",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/u5ilfgyvl8bbtaei-512x512-e3d4cf1ac198.jpg",
+    "bpm": 118,
+    "duration": "3m 35s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 4,
+      "bass": 2,
+      "drums": 2,
+      "plastic-bass": 1,
+      "plastic-drums": 1,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2025-04-09T00:01:39.808Z",
+    "lastFeatured": null,
+    "previewUrl": null
+  },
+  "darkhorse": {
+    "title": "Dark Horse",
+    "artist": "Katy Perry ft. Juicy J",
+    "releaseYear": 2013,
+    "cover": "https://cdn2.unrealengine.com/3nakws8dlomwbtig-512x512-a52a9dc96b4d.jpg",
+    "bpm": 132,
+    "duration": "3m 36s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 2,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": 1,
+      "plastic-drums": 2,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-04-09T00:01:40.334Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/82ed789cfb5a85c21a4acaaf38d93faf84f34da7"
+  },
+  "juno": {
+    "title": "Juno",
+    "artist": "Sabrina Carpenter",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/3xj5vctmm2sd4kfo-512x512-048638708f5d.jpg",
+    "bpm": 130,
+    "duration": "3m 45s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 2,
+      "bass": 2,
+      "drums": 2,
+      "plastic-bass": 2,
+      "plastic-drums": 2,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-04-09T00:01:40.776Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/81d11ac850302e9915c4598f94b8a93da1380fc1"
+  },
+  "mambonofive": {
+    "title": "Mambo No. 5 (A Little Bit of...)",
+    "artist": "Lou Bega",
+    "releaseYear": 1999,
+    "cover": "https://cdn2.unrealengine.com/ordhusj7wvh3koec-512x512-950526149e31.jpg",
+    "bpm": 87,
+    "duration": "3m 39s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 3,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": 0,
+      "plastic-drums": 3,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2025-01-10T00:01:07.192Z",
+    "lastFeatured": "2025-04-09T00:01:37.572Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c98bff86083944b2b50af1b5dfb04279d5342cde",
+    "featured": true
+  },
+   "thehandthatfeeds": {
+    "title": "The Hand That Feeds",
+    "artist": "Nine Inch Nails",
+    "releaseYear": 2005,
+    "cover": "https://cdn2.unrealengine.com/smumyk1qn6knqbz6-512x512-b34dc9ce55d7.jpg",
+    "bpm": 128,
+    "duration": "3m 31s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 5,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-04-09T00:01:37.572Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7ffe8447e8884c77eac5ecc3214540e688a59afe",
+    "featured": true
+  },
+  "findthefury": {
+    "title": "Find the Fury",
+    "artist": "Epic Games",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/4j2aco2yqwecotv0-512x512-1d7f381e9c2b.jpg",
+    "bpm": 105,
+    "duration": "2m 47s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 2,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": 3,
+      "plastic-drums": 5,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": null,
+    "previewUrl": null
+  },
   "gasolina": {
     "title": "Gasolina",
     "artist": "Daddy Yankee",
