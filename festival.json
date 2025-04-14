@@ -19,6 +19,69 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+  "hottogo": {
+    "title": "HOT TO GO!",
+    "artist": "Chappell Roan",
+    "releaseYear": 2023,
+    "cover": "https://cdn2.unrealengine.com/qmgxtlbtwqlk0ozk-512x512-74457e698961.jpg",
+    "bpm": 140,
+    "duration": "3m 9s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 2,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-04-14T00:01:36.262Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/75ffd47fee75208bb0bd42858de25e23b0b13091",
+    "featured": true
+  },
+   "dirtylittlesecret": {
+    "title": "Dirty Little Secret",
+    "artist": "The All-American Rejects",
+    "releaseYear": 2005,
+    "cover": "https://cdn2.unrealengine.com/omqszs2bx711pcpx-512x512-efe29f981bea.jpg",
+    "bpm": 144,
+    "duration": "3m 18s",
+    "difficulties": {
+      "vocals": 2,
+      "guitar": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 3,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-04-14T00:01:36.260Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0fe7e82ed5aac1d08d786724a18cc3011e99ad7a",
+    "featured": true
+  },
+  "themiddle2": {
+    "title": "The Middle",
+    "artist": "Jimmy Eat World",
+    "releaseYear": 2001,
+    "cover": "https://cdn2.unrealengine.com/avyytlc9jdx9xsvl-512x512-934b3054fa88.jpg",
+    "bpm": 162,
+    "duration": "2m 52s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": 2,
+      "plastic-drums": 3,
+      "plastic-guitar": 3
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-04-14T00:01:36.261Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5524bcb363f648a35571d9507d2d585bc9a0adc9",
+    "featured": true
+  },
     "nonsense": {
     "title": "Nonsense",
     "artist": "Sabrina Carpenter",
