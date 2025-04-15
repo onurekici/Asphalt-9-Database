@@ -19,6 +19,48 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+  "killinginthename": {
+    "title": "Killing In The Name",
+    "artist": "Rage Against The Machine",
+    "releaseYear": 1992,
+    "cover": "https://cdn2.unrealengine.com/b8dshwiqtjgwztoo-512x512-4cd245824cb1.jpg",
+    "bpm": 90,
+    "duration": "5m 19s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 4,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": 4,
+      "plastic-drums": 5,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-04-15T00:01:10.970Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/998d3604b68754c11bc0a9af64291ac1f91fb0d8?cid=ace3af5515b3429d8fbf1bb99bcd1310",
+    "featured": true
+  },
+  "highhopes": {
+    "title": "High Hopes",
+    "artist": "Panic! At The Disco",
+    "releaseYear": 2018,
+    "cover": "https://cdn2.unrealengine.com/rlkwybn37qfptc6m-512x512-cd3126b65669.jpg",
+    "bpm": 164,
+    "duration": "3m 14s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 2,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": 2,
+      "plastic-drums": 3,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-04-15T00:01:10.970Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f6995ad54d79b7ffaf0da6833409666ada11a173?cid=ace3af5515b3429d8fbf1bb99bcd1310",
+    "featured": true
+  },
   "hottogo": {
     "title": "HOT TO GO!",
     "artist": "Chappell Roan",
