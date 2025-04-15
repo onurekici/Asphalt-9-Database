@@ -19,6 +19,27 @@
     "lastFeatured": null,
     "previewUrl": "https://p.scdn.co/mp3-preview/6bb25d181b5ec9d10874794d95dc063db3ccf63c"
   },
+  "blackbeatles": {
+    "title": "Black Beatles",
+    "artist": "Rae Sremmurd ft. Gucci Mane",
+    "releaseYear": 2016,
+    "cover": "https://cdn2.unrealengine.com/heo0pzx0ovwbpmzj-512x512-e38c44fb0d49.jpg",
+    "bpm": 146,
+    "duration": "4m 27s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 0,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": 0,
+      "plastic-drums": 2,
+      "plastic-guitar": 0
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-04-15T00:01:10.970Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/519545ce2642cbd52cb049ee8e46426b0e3780b3",
+    "featured": true
+  },
   "killinginthename": {
     "title": "Killing In The Name",
     "artist": "Rage Against The Machine",
