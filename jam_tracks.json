@@ -19,6 +19,27 @@
     "lastFeatured": "2025-04-24T00:01:36.969Z",
     "previewUrl": "https://p.scdn.co/mp3-preview/d46b76a3887bc80ea67b6eeeb51c532405ba9f18"
   },
+   "gethimback": {
+    "title": "get him back!",
+    "artist": "Olivia Rodrigo",
+    "releaseYear": 2023,
+    "cover": "https://cdn2.unrealengine.com/eg34rcae7sdxlqvj-512x512-3bf33984bdf8.jpg",
+    "bpm": 81,
+    "duration": "3m 29s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 3,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": 1,
+      "plastic-drums": 3,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-04-26T00:01:40.749Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/8b5805a0fb24641ff34f1649ab448a16c219f073",
+    "featured": true
+  },
     "abarsong": {
     "title": "A Bar Song",
     "artist": "Shaboozey",
