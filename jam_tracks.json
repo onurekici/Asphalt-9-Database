@@ -19,6 +19,27 @@
     "lastFeatured": "2025-04-24T00:01:36.969Z",
     "previewUrl": "https://p.scdn.co/mp3-preview/d46b76a3887bc80ea67b6eeeb51c532405ba9f18"
   },
+ "thediner": {
+    "title": "THE DINER",
+    "artist": "Billie Eilish",
+    "releaseYear": 2024,
+    "cover": "https://cdn2.unrealengine.com/j3hqdyzl5i7ep1wl-512x512-2a779c5fac42.jpg",
+    "bpm": 125,
+    "duration": "2m 54s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 2,
+      "bass": 1,
+      "drums": 1,
+      "plastic-bass": 1,
+      "plastic-drums": 0,
+      "plastic-guitar": 1
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-04-26T00:01:40.750Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/4998bad5832e1767f4abd980b13b57afec817b64",
+    "featured": true
+  },
    "gethimback": {
     "title": "get him back!",
     "artist": "Olivia Rodrigo",
