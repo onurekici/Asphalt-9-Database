@@ -19,6 +19,27 @@
     "lastFeatured": "2025-04-24T00:01:36.969Z",
     "previewUrl": "https://p.scdn.co/mp3-preview/d46b76a3887bc80ea67b6eeeb51c532405ba9f18"
   },
+ "uptownfunk": {
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "releaseYear": 2014,
+    "cover": "https://cdn2.unrealengine.com/xurfccwjy3t6dtwg-512x512-33a2d693a0f9.jpg",
+    "bpm": 115,
+    "duration": "4m 34s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 2,
+      "bass": 4,
+      "drums": 3,
+      "plastic-bass": 3,
+      "plastic-drums": 2,
+      "plastic-guitar": 1
+    },
+    "createdAt": "2024-12-26T04:08:19.836Z",
+    "lastFeatured": "2025-04-29T00:01:43.726Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b8ebdee8d388a387abcbd9f6c370b8b12b5ff864",
+    "featured": true
+  },
  "thediner": {
     "title": "THE DINER",
     "artist": "Billie Eilish",
