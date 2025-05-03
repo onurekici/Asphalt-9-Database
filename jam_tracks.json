@@ -19,6 +19,129 @@
     "lastFeatured": "2025-04-24T00:01:36.969Z",
     "previewUrl": "https://p.scdn.co/mp3-preview/d46b76a3887bc80ea67b6eeeb51c532405ba9f18"
   },
+  "laptinek": {
+    "title": "Lapti Nek (Jabba's Palace)",
+    "artist": "John Williams & The London Symphony Orchestra",
+    "releaseYear": 1983,
+    "cover": "https://cdn2.unrealengine.com/msfi4huzbyehq0kq-512x512-a6290aa8845f.jpg",
+    "bpm": 131,
+    "duration": "2m 49s",
+    "difficulties": {
+      "vocals": 3,
+      "guitar": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": 3,
+      "plastic-drums": 3,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2025-05-03T00:01:39.603Z",
+    "lastFeatured": "2025-05-03T00:01:39.603Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/45e1628cdd50eadd50ef4170211f9485c6d2dfae",
+    "featured": true
+  },
+  "imperialmarch": {
+    "title": "The Imperial March (Darth Vader's Theme)",
+    "artist": "John Williams & The London Symphony Orchestra",
+    "releaseYear": 1980,
+    "cover": "https://cdn2.unrealengine.com/uigxjhe2s06ca64h-512x512-323d87e06e13.jpg",
+    "bpm": 102,
+    "duration": "3m 3s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 4,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": 4,
+      "plastic-drums": 3,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2025-05-03T00:01:40.143Z",
+    "lastFeatured": "2025-05-03T00:01:40.143Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/82c11d60cf0ab4e682a4abfac979a79d4c4e3520",
+    "featured": true
+  },
+  "wheremywookieesat": {
+    "title": "Where My Wookiees At?",
+    "artist": "Epic Games",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/fnb1rmhgckj5lng1-512x512-4598e45f7421.jpg",
+    "bpm": 150,
+    "duration": "3m 7s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 6,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": 3,
+      "plastic-drums": 5,
+      "plastic-guitar": 6
+    },
+    "createdAt": "2025-05-03T00:01:40.143Z",
+    "lastFeatured": null,
+    "previewUrl": null
+  },
+  "thedarkside": {
+    "title": "Chrome Dome (Fortnite Rearrangement)",
+    "artist": "John Williams",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/q2hxjpjil8rkkklf-512x512-da16f58d1202.jpg",
+    "bpm": 172,
+    "duration": "3m 2s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 6,
+      "bass": 3,
+      "drums": 2,
+      "plastic-bass": 2,
+      "plastic-drums": 3,
+      "plastic-guitar": 6
+    },
+    "createdAt": "2025-05-03T00:01:40.639Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/1cd8aa344459243326e3413f3db6b6cefb2104fd"
+  },
+  "rebelsrun": {
+    "title": "Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement)",
+    "artist": "John Williams & The London Symphony Orchestra",
+    "releaseYear": 2025,
+    "cover": "https://cdn2.unrealengine.com/sv2wof2wbsxfev68-512x512-b4ec5fcb2615.jpg",
+    "bpm": 108,
+    "duration": "3m 5s",
+    "difficulties": {
+      "vocals": 4,
+      "guitar": 5,
+      "bass": 3,
+      "drums": 2,
+      "plastic-bass": 3,
+      "plastic-drums": 4,
+      "plastic-guitar": 6
+    },
+    "createdAt": "2025-05-03T00:01:41.082Z",
+    "lastFeatured": null,
+    "previewUrl": "https://p.scdn.co/mp3-preview/4bf3aab8aa82130881fb8390b1faf8b28b31c5d6"
+  },
+  "cantinaband": {
+    "title": "Cantina Band",
+    "artist": "John Williams & The London Symphony Orchestra",
+    "releaseYear": 1977,
+    "cover": "https://cdn2.unrealengine.com/vo7fcgauzexehay1-512x512-b33fdda364d9.jpg",
+    "bpm": 131,
+    "duration": "2m 49s",
+    "difficulties": {
+      "vocals": 5,
+      "guitar": 5,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": 4,
+      "plastic-drums": 4,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2024-12-26T04:08:19.835Z",
+    "lastFeatured": "2025-05-03T00:01:39.048Z",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f2baebfa7c0cbe8ac683a3c13c64e60d7f8574d4",
+    "featured": true
+  },
  "uptownfunk": {
     "title": "Uptown Funk",
     "artist": "Mark Ronson ft. Bruno Mars",
